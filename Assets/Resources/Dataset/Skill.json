@@ -1,0 +1,41 @@
+{
+  "Art":[
+    "Pencil",
+    "Oil Painting",
+    "Shading",
+    "Coloring",
+    "Picture Structuring",
+    "Digital Coloring",
+    "Color Theory",
+    "Portrait Drawing"
+    ],
+  "Tech":[
+    "Data Analysis",
+    "Cloud Service Management",
+    "Database Structural Development",
+    "Software QA",
+    "Application Structural Design",
+    "Hardware Installation",
+    "Hardware Repairment",
+    "Software Installation"
+    ],
+  "Marketing":[
+    "Social Media Listing Tools",
+    "Marketing Video",
+    "Live Product Promotion",
+    "Marketing Research on Targeted Product",
+    "Collaboration Campign",
+    "Social Media Posting",
+    "Sales Data Visualization",
+    "Poster Design",
+    "Marketing Strategy"
+    ],
+  "Management":[
+    "Team Collaboration",
+    "Project Management",
+    "Timetable Scheduling",
+    "Deadline Scheduling",
+    "Human Resource Organization",
+    "Contract Negotiation"
+    ]
+}

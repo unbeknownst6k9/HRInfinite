@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad7c94e2551e4e341be2f40a4fd6cffd, type: 3}
+  m_Name: RandomGeneratorData
+  m_EditorClassIdentifier: 
+  fistNameFile: {fileID: 4900000, guid: 43f68383e3d444e428d48eff0afa2473, type: 3}
+  LastNameFile: {fileID: 4900000, guid: d5aef48babc2cc745b2ff067ebebd2a2, type: 3}
+  SkillFile: {fileID: 4900000, guid: facf97ef59001884e897351355f91c91, type: 3}
+  UniversityFile: {fileID: 4900000, guid: 509dc5cc172ea264dab57ea3162b15eb, type: 3}
